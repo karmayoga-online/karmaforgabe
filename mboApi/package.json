@@ -1,0 +1,27 @@
+{
+  "name": "mindbody-node-client",
+  "version": "1.0.2",
+  "description": "Starter node-client for the MindBody SOAP API.",
+  "keywords": ["Mind", "Body", "MindBody", "SOAP"],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azjgard/mindbody-node-client.git"
+  },
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "soap": "^0.4.7"
+  },
+  "author": "Jordin Gardner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azjgard/mindbody-node-client/issues"
+  },
+  "homepage": "https://github.com/azjgard/mindbody-node-client#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
